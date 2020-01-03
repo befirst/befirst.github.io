@@ -5,7 +5,7 @@
       "details":[
          {
             "appID": "Q55XU7GJUK.com.insuranceagentapp.ios",
-            "paths": [ "*" ]
+            "paths": [ "/customers/password/edit" ]
          }
       ]
    }
